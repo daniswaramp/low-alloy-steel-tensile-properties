@@ -1,4 +1,4 @@
-# Low-alloy steel tensile tests: what the chemistry explains, and what the test condition hides
+# Low-alloy steel tensile properties analysis: what the chemistry explains and what the test condition hides
 
 A csv of 500 low-alloy steel tensile tests, seven alloying elements, a carbon equivalent, and the three
 properties a mill cares about: yield strength, tensile strength and elongation. The question is how much of
